@@ -131,7 +131,7 @@ Creative Web - ensures students have foundational functionality for their projec
 Summative at each stage (e.g. each submission point is marked and contributes to the final assessment mark)
 
 - CodeLab breaks the assessment down into manageable chunks to afford time management. Allows tutors to spot students who are struggling and address misunderstanding before more complex techniques are introduced. Allows students to identify common mistakes, misconceptions and address these in the next submission rather than maintaining bad habits throughout
-
+This has been successful in maintaining a high pass rate for a programming module. Typically those who fail are those who do not engage full stop. The evidence of time management in this instance is apparent from this years experience where in our second year CodeLab module I reverted to a single deadline and witnessed numerous students working on the first exercises the day before the deadline rather than wrapping up the final exercise. 
 - Digital Storytelling and Digital Visual Design are both portfolio assessments which consist of several smaller briefs. The phased approach again helps manage time, breaks the assessment into smaller more managable tasks and provides actionable feedback students can take forward into the next assessment.
 
 -->
@@ -147,6 +147,7 @@ Summative at each stage (e.g. each submission point is marked and contributes to
 - Provide feedback after each deliverable
     - Formative if resubmission allowed
 - Don't let the total workload increase
+- The number of deliverables
 
 
 <!--
@@ -154,7 +155,10 @@ In summary this approach enables students to understand what is expected, to add
 
 Feedback offered after each stage provides actions to improve work and this can be either summative or formative in how its applied.
 
-Whilst the number of deadlines increases for the students it is important to ensure the overall level of work is not increased
+Whilst the number of deadlines increases for the students it is important to ensure the overall level of work is not increased for both students and tutors
+
+Ensure the overall number of deliverables is not excessive
+
 
 -->
 ---
