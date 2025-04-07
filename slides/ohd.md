@@ -70,7 +70,7 @@ Many [more](https://openprocessing.org/browse) and [more](https://p5js.org/examp
     - Randomisation
     - Event handling
 - References: 
-    - Slides - https://bit.ly/ob-slides
+    - Slides - https://bit.ly/cc-ob-slides
 
 ---
 # Step 1 - Setup
