@@ -6,6 +6,7 @@ theme: default
 
 # Creative Coding Workshop
 April 9 2025
+j.hobbs@bathspa.ac.uk
 
 ---
 
@@ -70,7 +71,6 @@ Many [more](https://openprocessing.org/browse) and [more](https://p5js.org/examp
     - Event handling
 - References: 
     - Slides - https://bit.ly/ob-slides
-    - Full Code - https://bit.ly/ob-code
 
 ---
 # Step 1 - Setup
@@ -251,11 +251,10 @@ function draw() {
   textSize(24);
   text("Score: " + score, 10, 30);
 
-  //draw time to screen
-  text("Time: " + timeLeft, 10, 60);
+  text("Time: " + timeLeft, 10, 60);//draw time to screen
 
-  //check if time remains
-  if (timeLeft == 0) {
+  
+  if (timeLeft == 0) {//check if time remains
     noLoop();
     text("Game Over", width / 2 - 50, height / 2);
   }
@@ -271,3 +270,13 @@ function draw() {
 - Move the circles
 - Store high score
 - Add sounds
+
+---
+
+# Thank You
+
+<br />
+
+Full Code available at: https://bit.ly/ob-code
+
+
