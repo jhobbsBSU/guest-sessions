@@ -1,0 +1,151 @@
+/* @theme guest */
+
+@import 'gaia';
+
+:root {
+    --color-background: #EBECF1;
+    color: #272838;
+}
+
+
+h1{
+    margin-bottom: 30px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p, ul li{
+    font-size: 32px;
+}
+li::marker{
+    color: #144138 ;
+}
+
+li li{
+    font-size: 28px;
+}
+
+
+img[src*='#ico-right']{
+    position: absolute;
+    top: 90px;
+    right: 40px;
+    width: 10%;
+}
+
+img[src*='#right']{
+    position: relative !important;
+    float:right;
+    margin-left: 30px
+}
+img[src*='#large']{ 
+    width: 75%; 
+    display: block;
+    margin: 20px auto;
+}
+video{
+    display: block;
+    margin: 50px auto;
+    width: 90%;
+}
+section.main{
+    background: linear-gradient(135deg, #23324f 20%, transparent 20%, transparent 80%, #23324f 80%),linear-gradient(45deg, #23324f 40%, #283a5e 40%, #283a5e 60%, #283a5e 60%, #23324f 60%) , linear-gradient(135deg, #144138 20%, #123b33 20%, #123b33 80%, #144138 80%);
+        background-size: 3em 3em;
+        background-color: #23324f;
+        opacity: 1
+}
+section.lead{
+    background: linear-gradient(45deg, #23324f 20%, transparent 20%, transparent 80%, #23324f 80%),linear-gradient(135deg, #23324f 40%, #283a5e 40%, #283a5e 60%, #283a5e 60%, #23324f 60%) , linear-gradient(45deg, #144138 20%, #123b33 20%, #123b33 80%, #144138 80%);
+        background-size: 3em 3em;
+        background-color: #23324f;
+        opacity: 1
+}
+section.main, section.lead{
+    background-size: 2em 2em;
+    background-color: #23324f;
+    opacity: 1
+}
+
+section.main h1, section.lead h1{
+    font-size: 88px;
+    color: #EBECF1;
+}
+
+section.main h2 span, section.lead h2 span{
+    padding: 10px 20px;
+    background-color: #23464f;
+    
+}
+section.main footer, section.lead footer, section.question footer{
+    color: #FFF;
+}
+footer{
+    opacity: 0.7;
+}
+
+
+section.main, section.break {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section.break{
+    align-items: center;
+    background: #EBECF1;
+}
+section.break h1{
+    font-size: 250px;
+    color: #23324f;
+}
+section.question{
+    background: linear-gradient(110deg, #23324f 65%, #EBECF1 45%);
+}
+section.question h1{
+    font-size: 70px;
+    color: #EBECF1;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    -ms-transform: translateY(-40%);
+    transform: translateY(-40%);
+}
+section.question h2{
+    font-size: 30px;
+    position: absolute;
+    top: 70%;
+    -ms-transform: translateY(-70%);
+    transform: translateY(-70%);
+    color: #EBECF1;
+}
+section.break{
+    justify-content: center;
+}
+
+section.threes{
+    columns: 3;
+    display: block;
+}
+ section.twos{
+    columns: 2;
+    display: block;
+}
+
+section.threes h1, section.twos h1{
+    column-span: all;
+}
+
+section.threes h2, section.twos h2{
+    break-before: column;
+    font-size: 28px;
+}
+
+section.threes p, section.twos p, section.threes ul li, section.twos ul li{
+    font-size: 24px;
+}
+
+section.small-txt{
+    font-size: 28px;
+}
