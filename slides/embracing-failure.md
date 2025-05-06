@@ -2,6 +2,7 @@
 marp: true
 paginate: true
 theme: guest
+footer: 'BD-HM-SD'
 ---
 <style scoped>a{font-weight: bold; color:#FFF;}</style>
 <!-- _class: main -->
@@ -31,9 +32,10 @@ j.hobbs@bathspa.ac.uk
 
 <br/>
 
-When I say scribble!, scribble on a post-it and pass it onto the person on your left. 
+Go to **https://kleki.com/**
 
-You will then have 60 seconds to make a drawing out of the post-it given to you.
+
+When I say doodle you will have 60 seconds to doodle something on the canvas.
 
 <!--
 I want to begin with an activity…
@@ -45,13 +47,15 @@ I want to begin with an activity…
 ![bg right:33% w:200 Icon indicating question activity](../assets/icons/conversation.png)
 # Who here is creative?
 
-## Menti: xxxx-xxxx
+## Menti: 2259 2242
 
 
 <!--
 Now we’ve finished that activity, let me ask a question. Who here is creative?
 
 Do you consider yourself creative, if so why? If not, why not?
+
+--------------
 
 If you do not feel you are creative then how did you accomplish the last activity? You had the literal task of creating something. You generated an idea that may have been new, novel and surprising. 
 
@@ -88,8 +92,7 @@ Thus whilst many of us may have got used to being told and thinking we are not c
 ![bg right:33% w:200 Icon indicating question activity](../assets/icons/conversation.png)
 # What is creativity?
 
-## Menti: xxxx-xxxx
-
+## Menti: 2259 2242
 <!--
 So we've had a discussion about whether we feel creative but what is creativity?
 -->
@@ -109,9 +112,30 @@ So we've had a discussion about whether we feel creative but what is creativity?
 <!--
 One simple definition of creativity is one offered by Ken Robinson in his famous TED talk on the education systems effect on creativity. 
 
-Similar definitions are found across different texts. The Cambridge dictionary for example defines creativity as the ability to produce or use original and unusual ideas. Britannica define creativity as the ability to make or otherwise bring into existence something new. These definitions evidence what I was talking about in relation to our earlier scribble activity – you each had the ability to bring into existence something new in the form of our post-it sketches. 
+Similar definitions are found across different texts. The Cambridge dictionary for example defines creativity as the ability to produce or use original and unusual ideas. Britannica define creativity as the ability to make or otherwise bring into existence something new. These definitions evidence what I was talking about in relation to our earlier doodle activity – you each had the ability to bring into existence something new in the form of your drawings. 
 
 Thus, creativity is the ability to come up with ideas that are new, surprising, useful, progressive and valuable.
+-->
+---
+<style scoped> p {font-size: 30px;} </style>
+
+# What is creativity?
+
+![bg left:37% Mihaly Cszikszentmihalyi smiling with hands open](../assets/images/Cszikszentmihalyi.jpg)
+
+"A process by which a **symbolic domain in culture is changed**…
+
+…creativity results from the interaction of system composed of three elements: a culture that contains symbolic rules, a person who **brings novelty into the symbolic domain**, and a **field of experts who recognise and validate the innovation**"
+
+**Mihaly Cszikszentmihalyi**
+
+<!--
+Let's take the definition of creativity a bit further. Mihaly Cszikszentmihalyi states that change must occur from creativity and change stems from the act of creativity offering something novel in the domain that it relates to. 
+
+Yet novelty alone is not enough, that novelty must be validated by a field of experts, who must recognise the novelty and be able to determine its worth.
+
+Such definitions of creativity make it seem difficult to achieve (thus it’s easy to see why some of us may not feel as if we are creative).
+
 -->
 ---
 # What is ideation?
@@ -122,7 +146,9 @@ Thus, creativity is the ability to come up with ideas that are new, surprising, 
 **Nielsen Norman Group**
 
 <!--
-As defined by the Nielsen Norman Group Ideation is the process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them
+Regardless of whether we look at the simpler definitions or those more grander in style, the common trait within these definitions is that creativity involves idea generation. 
+
+Thus creativity is linked to the concept of 'Ideation', which is defined by the Nielsen Norman Group Ideation is the process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them
 -->
 ---
 
@@ -138,7 +164,7 @@ Let’s dig into this definition some more. Note the phrases now highlighted in 
 
 In ideation no idea is a bad idea, the environment should be judgement free. 
 
-The fact that no idea is bad idea is also then emphasised by the fact you are striving for quantity over quality (something that is rarely the case in other contexts. By developing quantity, quality will emerge as ideas get tested and refined towards the right solution (which is what we delve into more in phase 2 of the module).
+The fact that no idea is bad idea is also then emphasised by the fact you are striving for quantity over quality (something that is rarely the case in other contexts). By developing quantity, quality will emerge as ideas get tested and refined towards the right solution.
 -->
 ---
 
@@ -150,7 +176,7 @@ NomNom Foods want to enter the canned soup market. What is the **worst possible 
 
 <br />
 
-**Menti: xxxx-xxxx**
+**Menti: 2259 2242**
 
 <!--
 So before we start looking at some of the ideas, why do you think I phrased the activity as what is the “worst possible idea”
@@ -169,11 +195,12 @@ You might then think well what’s the point in having lots of bad ideas? Well b
 **Homer Simpson**
 
 <!--
-Key to Ken Robinson's talk and the argument that education systems and even workplaces quash creativity is a fear of failure, which pushes us towards the attitude of the (not) so great philosopher Homer Simpson
+
+Key to Ken Robinson's talk shown earlier is the argument that education systems and even workplaces quash creativity is a fear of failure, which pushes us towards the attitude of the (not) so great philosopher Homer Simpson
 
 If we all took the perspective of Homer nothing would ever get done, we would not improve, we would not innovate and nothing new would come to light.
 
-We saw this in the last session and the worst possible idea activity. This activity does the opposite to homer, it purposely invites failure which we then used to develop some reasonable ideas that have potential value in a short period of time.
+We saw this in the worst possible idea activity. This activity does the opposite to homer, it purposely invites failure which we then used to develop some reasonable ideas that have potential value in a short period of time.
 
 -->
 
@@ -182,7 +209,7 @@ We saw this in the last session and the worst possible idea activity. This activ
 # Be prepared to mae mitakes...
 
 <!--
-Therefore, a key point about creativity and this module is being prepared to make mistakes and fundamentally changing how we think about failure. 
+Therefore, a key point about creativity is being prepared to make mistakes and fundamentally changing how we think about failure. 
 -->
 ---
 # Be prepared to make mistakes...
@@ -195,7 +222,9 @@ Therefore, a key point about creativity and this module is being prepared to mak
 <!--
 If we are not prepared to fail we will never make anything. 
 
-We can relate this to the broader process of learning. Take CodeLab and the process of learning how to code. Learning how to code is difficult, it is even more difficult if you are not prepared to make mistakes, if you are two fearful of errors you will not develop. In programming errors are inevitable (even for a master), but the errors themselves provide new learning opportunities. 
+We can relate this to the broader process of learning. Take your university experience as an example - University is a process, the work you produce in year one will not be your best work, at this moment you are learning the foundations of your subject alongside the foundations of how to learn in a Higher education setting. This is a key reason why your final degree results is based predominately on your final year grades as by this point you've had the opportunity to learn and build from the mistakes of past work
+
+Therefore at this stage its important to be prepared to make mistakes and know that the work you produce now won't be perfect. However you can learn from these mistakes, take on board the advice and feedback you recieve from peers and tutors and use this to develop and improve going forward. 
 
 -->
 ---
@@ -235,15 +264,15 @@ If you fail, you must try again, but not only that, you must learn from the prev
 - It doesn’t matter if the thing you make ‘works’ it’s the journey that’s important
 
 <!--
-As we began to learn before the break creativity is not an event. Creativity does not happen by magic. The best ideas do not happen instantly.
+From this we begin to understand creativity is not an event. Creativity does not happen by magic. The best ideas do not happen instantly.
 
-Sometimes (maybe more accurately) things go wrong – Creativity is thus a process of iteration where you try something, you evaluate it, refine it and try it again
+Whilst the definition of creativity from Cszikentmihalyi we saw earlier alludes to creativity on a grander scale, we do not get their straight away. Take the light bulb for example, Thomas Edison didn't wake up one morning click his fingers and boom lightbulb. Instead there was a long history of ideation, learning, mistakes and people before Edison that drove the ground breaking change. 
+
+Therefore, sometimes (maybe more accurately) things go wrong – Creativity is thus a process of iteration where you try something, you evaluate it, refine it and try it again
 
 As noted earlier many of the project through your degree are as much about the process (fundamentally the process of learning) as it is the product
 
 It doesn’t matter if the thing you make ‘works’ (and often marking criteria account for this), but it’s the journey, how you go there and what you learn from the experience that is important. 
-
-This is a key reason why many of your assessments ask for a critical reflection. If you don’t reflect and evaluate the work you will not learn from that experience and thus will not fail better next time.
 -->
 ---
 
@@ -284,7 +313,7 @@ Every phase of the iterative design cycle invites failure.
 
 - In the observation stage you are seeking to understand the problem that you are designing a solution for and therefore looking for data to explain why the current solution is failing
 
-- In ideation as discussed earlier the intent is the explore quantity rather than quality of ideas. Bad ideas are encouraged rather than dismissed. This allows you to overcome flawed assumptions and develop better insights. The more ideas that fail at this stage the fewer dead ends you chase later. 
+- In ideation, as discussed earlier, the intent is the explore quantity rather than quality of ideas. Bad ideas are encouraged rather than dismissed. This allows you to overcome flawed assumptions and develop better insights. The more ideas that fail at this stage the fewer dead ends you chase later. 
 
 - Prototyping offers the safe space to explore ideas through rapid imperfect creation. Prototypes are not meant to be flawless, they are meant to break, they are mean to fail. Failure within prototypes allows you to answer questions and uncover the right direction forward
 
