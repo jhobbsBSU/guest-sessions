@@ -146,7 +146,7 @@ Such definitions of creativity make it seem difficult to achieve (thus it’s ea
 **Nielsen Norman Group**
 
 <!--
-Regardless of whether we look at the simpler definitions or those more grander in style, the common trait within these definitions is that creativity involves idea generation. 
+Regardless of whether we look at the simpler definitions or those  grander in style, the common trait within these definitions is that creativity involves idea generation. 
 
 Thus creativity is linked to the concept of 'Ideation', which is defined by the Nielsen Norman Group Ideation is the process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them
 -->
@@ -266,13 +266,13 @@ If you fail, you must try again, but not only that, you must learn from the prev
 <!--
 From this we begin to understand creativity is not an event. Creativity does not happen by magic. The best ideas do not happen instantly.
 
-Whilst the definition of creativity from Cszikentmihalyi we saw earlier alludes to creativity on a grander scale, we do not get their straight away. Take the light bulb for example, Thomas Edison didn't wake up one morning click his fingers and boom lightbulb. Instead there was a long history of ideation, learning, mistakes and people before Edison that drove the ground breaking change. 
+Whilst the definition of creativity from Cszikentmihalyi we saw earlier alludes to creativity on a grander scale, we do not get their straight away. Take the light bulb for example, Thomas Edison didn't wake up one morning click his fingers and boom lightbulb. Instead there was a long history of ideation, learning, mistakes and other people before Edison that drove the ground breaking change. 
 
 Therefore, sometimes (maybe more accurately) things go wrong – Creativity is thus a process of iteration where you try something, you evaluate it, refine it and try it again
 
-As noted earlier many of the project through your degree are as much about the process (fundamentally the process of learning) as it is the product
+As noted earlier many of the projects through your degree are as much about the process (fundamentally the process of learning) as it is the product
 
-It doesn’t matter if the thing you make ‘works’ (and often marking criteria account for this), but it’s the journey, how you go there and what you learn from the experience that is important. 
+It doesn’t matter if the thing you make ‘works’, but it’s the journey, how you go there and what you learn from the experience that is important. 
 -->
 ---
 
@@ -290,7 +290,7 @@ It doesn’t matter if the thing you make ‘works’ (and often marking criteri
 ![bg w:950 Graphic showing the phases of the iterative design cycle; observation, ideation, prototyping, testing](../assets/images/iterative-design-cycle.png)
 
 <!--
-This idea of creativity being a process links directly to the process of designing experiences and producing effective products for end users. When doing so we should design iteratively which allows us to improve products, learn from feedback and ensures we don’t settle on our first idea. 
+The idea of creativity being a process links directly to the process of designing experiences and producing effective products for end users. When doing so we should design iteratively which allows us to improve products, learn from feedback and ensures we don’t settle on our first idea. 
 
 The bedrock for designing iteratively and embedded within the design thinking process is the aptly named iterative design cycle. The iterative design cycle has four key phases, observation, ideation, prototyping and testing.
 -->
@@ -326,7 +326,9 @@ Every phase of the iterative design cycle invites failure.
 <!-- _class: lead -->
 
 # 3. Case Studies
-
+<!--
+In this final section I want to look at a couple of case studies where iterative design and the embracing of failure have been put into practice, resulting in innovation.
+-->
 ---
 # Infant Baby Warmer
 
@@ -437,7 +439,7 @@ Within a week the site double its revenue making $400 dollars instead of $200. A
 ![bg right:33% w:200 Icon indicating question activity](../assets/icons/conversation.png)
 # Can you think of any examples?
 
-## Menti: xxxx-xxxx
+## Menti: 2259 2242
 
 <!--
 Are there examples of products you can think of that have embraced iterative design and failure as a driver for success
