@@ -233,16 +233,21 @@ An educational account gives you access to all premium features.
 - Creating Overlays
 - Creating Scrolling Elements
 
+[Demo Assets](https://bathspaonline-my.sharepoint.com/:u:/g/personal/j_hobbs_bathspa_ac_uk/IQA67QZK-o1BQpoCVsAXRsXcAa0GQAPZ7YAQRxEP1LKgjSM?e=yacDrH)
+
 <!--
 Today's session will introduce the following in Figma
 -->
 ---
+
+<!-- _class: small-txt -->
 
 # Figma Resources
 
 Video demos of everything covered can be accessed at the link below, including a tutorial on how the Muutro demo was made:
 
 [Video Demos](https://loom.com/share/folder/9e8f68395f904bdcae0cecb194f6f2cd)
+[Demo Assets](https://bathspaonline-my.sharepoint.com/:u:/g/personal/j_hobbs_bathspa_ac_uk/IQAI8CSEzb2ORbTxw1pvGb1gAVijQj_ZtvrNFzDhRRpFqJc?e=pIWIvh)
 
 Other useful resources include:
 
@@ -257,6 +262,4 @@ Other useful resources include:
 
 # Thank You
 
-j.hobbs@bathspa.ac.uk
-
-
+<j.hobbs@bathspa.ac.uk>
