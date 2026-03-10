@@ -2,7 +2,7 @@
 marp: true
 paginate: true
 theme: guest
-footer: 'xx xx xx'
+footer: 'GR-NX-UO'
 ---
 
 <style scoped>a{font-weight: bold; color:#FFF;}</style>
