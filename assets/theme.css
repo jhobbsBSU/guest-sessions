@@ -20,7 +20,7 @@ p, ul li{
     font-size: 32px;
 }
 li::marker{
-    color: #144138 ;
+    color: #1c3d46 ;
 }
 
 li li{
@@ -75,7 +75,7 @@ section.main h1, section.lead h1{
 
 section.main h2 span, section.lead h2 span{
     padding: 10px 20px;
-    background-color: #23464f;
+    background-color: #467e8b;
     
 }
 section.main footer, section.lead footer, section.question footer{
